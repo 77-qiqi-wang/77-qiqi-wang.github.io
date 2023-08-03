@@ -23,7 +23,7 @@ Education
   * Supervisor: [Dr. Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
 
 
-Work experience
+Intern experience
 ======
 * May 2021 - Nov. 2021: Research Assistant
   * Ping An Technology Co. Ltd.
