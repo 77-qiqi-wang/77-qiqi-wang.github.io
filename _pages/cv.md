@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E. & B.L. in Southwest University, China, 2015-2019
+* B.E. & LL.B. in Southwest University, China, 2015-2019
   * Major in Automation for B.E.
-  * Major in Law for B.L.
+  * Major in Law for LL.B.
 * M.E. in University of Western Australia, Australia, 2018-2020
   * Major in Electrical and Electronic Engineering
   * Supervisor: [Dr. Tim French](https://research-repository.uwa.edu.au/en/persons/tim-french)

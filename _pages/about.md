@@ -12,7 +12,7 @@ I'm a PhD candidate at the University of Auckland. I'm currently studying Natura
 
 Education
 ======
-* B.E. & B.L. in Southwest University, China, 2015-2019
+* B.E. & LL.B. in Southwest University, China, 2015-2019
 * M.E. in University of Western Australia, Australia, 2018-2020
   * Supervisor: [Dr. Tim French](https://research-repository.uwa.edu.au/en/persons/tim-french)
 * Ph.D in University of Auckland, New Zealand, 2021-now

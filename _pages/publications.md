@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The full list of my publications can be found in <u><a href="{https://scholar.google.com/citations?user=OeiDn_8AAAAJ}"> Google Scholar</a></u> or <u><a href="{https://dblp.uni-trier.de/pid/59/5241-5.html}"> DBLP</a>.</u>
-
+The full list of my publications can be found in [Google Scholar](https://scholar.google.com/citations?user=OeiDn_8AAAAJ) or [DBLP](https://dblp.uni-trier.de/pid/59/5241-5.html).
 
 {% include base_path %}
 
