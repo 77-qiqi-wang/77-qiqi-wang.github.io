@@ -40,13 +40,13 @@ Qualification
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include publications.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include teaching.html %}
   {% endfor %}</ul>
   
 Professional Services
