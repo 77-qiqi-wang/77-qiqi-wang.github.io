@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. & B.L. in Southwest University, China, 2015-2019
+  * Major in Automation for B.E.
+  * Major in Law for B.L.
+* M.E. in University of Western Australia, Australia, 2018-2020
+  * Major in Electrical and Electronic Engineering
+  * Supervisor: [Dr. Tim French](https://research-repository.uwa.edu.au/en/persons/tim-french)
+  * Thesis Title:  Probabilistic Decision Support for the Legal Judgement for Traffic Cases
+* Ph.D in University of Auckland, New Zealand, 2021-now
+  * Major in Computer Science
+  * Supervisor: [Dr. Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
+
 
 Work experience
 ======
