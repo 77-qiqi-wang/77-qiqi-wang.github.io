@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -7,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-======
 I'm a PhD candidate at the University of Auckland. I'm currently studying Natural Language Processing (NLP), and Artificial Intellengice for Law (or called LegalAI). Specifically, I'm very interested in making legal paperwork become smarter, more efficient, and less manpower. 
 
 Education
@@ -29,7 +28,7 @@ Research Interest
 
 Qualification
 ------
-* LEGAL PROFESSIONAL QUALIFICATION CERTIFICATE of CHINA (A CLASS)
+* LEGAL PROFESSIONAL QUALIFICATION CERTIFICATE of CHINA
 
 Awards
 ------
