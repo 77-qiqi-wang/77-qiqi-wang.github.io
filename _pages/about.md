@@ -32,6 +32,7 @@ Qualification
 
 Awards
 ------
+* PhD Award of School of Computer Science, University of Auckland (2023)
 * PhD Award of School of Computer Science, University of Auckland (2022)
 * First Class Scholarship of Southwest University (2018)
 * Yuhui Scholarship of Southwest University (2018)
