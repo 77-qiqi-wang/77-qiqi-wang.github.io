@@ -28,8 +28,8 @@ Work Experience
 ======
 * February 2023 - Now, Graduate Teaching Assistant, the University of Auckland
 * November 2022 - November 2023, Research Associate, the University of Auckland
-* May 2022 - Dec. 2022, Algorithm Engineer, IQIYI Inc.
-* May 2021 - Nov. 2021, Research Assistant, Ping An Technology Co. Ltd.
+* May 2022 - Dec. 2022, Research Intern, IQIYI Inc.
+* May 2021 - Nov. 2021, Research Intern, Ping An Technology Co. Ltd.
   
 Qualification
 ------
