@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Auckland, New Zealand, 2021-now
+* Ph.D in University of Auckland, New Zealand, 2021-2024
   * Major in Computer Science
-  * Supervisor: [Dr. Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
+  * Supervisor: [Dr. Kaiqi Zhao](https://kaiqizhao.github.io/), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
   * Thesis: Knowledge-enhanced Document Representation Learning for Legal Judgment Support (Under Examination)
 * M.E. in University of Western Australia, Australia, 2018-2020
   * Major in Electrical and Electronic Engineering
@@ -26,6 +26,7 @@ Education
 
 Work Experience
 ======
+* December 2024 - Now, Lecturer, Nankai University
 * February 2023 - Now, Graduate Teaching Assistant, the University of Auckland
 * November 2022 - November 2023, Research Associate, the University of Auckland
 * May 2022 - Dec. 2022, Research Intern, IQIYI Inc.
@@ -50,12 +51,12 @@ Teaching
 Professional Services
 ======
 * Program Committee member
-  * ACL 2023
+  * ACL 2023, 2024, 2025
   * ECAI 2023
-  * EMNLP 2023
+  * EMNLP 2023, 2024, 2025
   
 * External Reviewer
-  * CIKM 2024
+  * CIKM 2024, 2025
   * WSDM 2023
   * ACL 2022
   * IJCAI 2022
