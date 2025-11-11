@@ -13,7 +13,7 @@ I am a Lecturer in the School of Statistics and Data Science at Nankai Universit
 Education
 ======
 * Ph.D in the University of Auckland, New Zealand, 2021-2024
-  * Supervisor: [Dr. Kaiqi Zhao]([https://kaiqi.blogs.auckland.ac.nz/](https://kaiqizhao.github.io/)), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
+  * Supervisor: [Dr. Kaiqi Zhao](https://kaiqizhao.github.io/), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
   * Thesis: Knowledge-enhanced Document Representation Learning for Legal Judgment Support (Under Examination)
 * M.E. in the University of Western Australia, Australia, 2018-2020
   * Supervisor: [Dr. Tim French](https://research-repository.uwa.edu.au/en/persons/tim-french)
