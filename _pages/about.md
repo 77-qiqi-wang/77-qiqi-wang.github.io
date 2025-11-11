@@ -8,24 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the University of Auckland, currently studying Natural Language Processing (NLP) and Artificial Intelligence for Law (also known as LegalAI). Specifically, I'm very interested in making legal paperwork smarter, more efficient, and less reliant on manpower.
+I am a Lecturer in the School of Statistics and Data Science at Nankai University. I earned my Ph.D. in Computer Science from the University of Auckland, New Zealand. My research focuses on Natural Language Processing (NLP), Artificial Intelligence for Law (also known as LegalAI), spatio-temporal data mining, graph mining.
 
 Education
 ======
-* Ph.D in University of Auckland, New Zealand, 2021-now
-  * Supervisor: [Dr. Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
+* Ph.D in the University of Auckland, New Zealand, 2021-2024
+  * Supervisor: [Dr. Kaiqi Zhao]([https://kaiqi.blogs.auckland.ac.nz/](https://kaiqizhao.github.io/)), [Prof. Robert Amor](https://cs.auckland.ac.nz/~trebor/), and [Dr. Benjamin Liu](https://profiles.auckland.ac.nz/b-liu)
   * Thesis: Knowledge-enhanced Document Representation Learning for Legal Judgment Support (Under Examination)
-* M.E. in University of Western Australia, Australia, 2018-2020
+* M.E. in the University of Western Australia, Australia, 2018-2020
   * Supervisor: [Dr. Tim French](https://research-repository.uwa.edu.au/en/persons/tim-french)
   * Dissertation: Probabilistic Decision Support for the Legal Judgement for Traffic Cases
 * B.E. & LL.B. in Southwest University, China, 2015-2019
 
-
+Work
+======
+* Lecturer at Nankai University, China, 2024-Now
+  
 Research Interest
 ------
 * LegalAI
 * Document Summarization
 * Natural Language Processing (NLP)
+* Spatio-temporal data mining
 * Voice Conversion
 
 Qualification
